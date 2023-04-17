@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">Apps mobile developer from Morocco</h3>
-<img align="right" alt="coding" with="400" src="68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
 
 - 🌱 I’m currently learning **Kotlin ,Java ,Swift ,Dart,Flutter....**
 
