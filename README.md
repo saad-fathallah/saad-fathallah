@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">Apps mobile developer from Morocco</h3>
 <img align="center" alt="coding" width="100%" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif"/>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devoam&label=Profile%20views&color=0e75b6&style=flat" alt="saad-fathallah" /> </p>
+
 
 
 - 🌱 I’m currently learning **Kotlin ,Java ,Swift ,Dart,Flutter....**
@@ -10,6 +13,8 @@
 - 📫 How to reach me **agdal.mac@gmail.com**
 
 - ⚡ Fun fact **I Think im funny**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
